@@ -1,0 +1,13 @@
+
+
+Game:
+    Player:
+    World:
+        Biome:
+            NPCS: ...
+            Structures: ...
+    Registry:
+        items: ...
+        npcs: ...
+    
+    StorageManager:
